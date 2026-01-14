@@ -2,6 +2,9 @@
 
 **Final Backend Training Project** developed as part of **ENG4YOU** program.  
 This Web API application is built with **ASP.NET Core**, **Entity Framework Core**, and **SQL Server**, following **OOP principles** and **clean architecture** using the **Controller-Service-Repository pattern** for maintainability and scalability.
+## Awarded 1st place as one of the top 3 projects
+<img width="749" height="813" alt="image" src="https://github.com/user-attachments/assets/2da8405b-d961-4337-a17c-48023518a76d" />
+
 
 ## Project Overview
 
